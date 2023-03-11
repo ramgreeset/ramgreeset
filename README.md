@@ -1,5 +1,3 @@
-<h1>Hi there, I'm Roman 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h2>Обучение</h2>
 <ol>
 <li>Первая и самая важная часть это сон. В 19-20 часов готовимся ко сну. Отбой в 22:30.</li>
