@@ -1,3 +1,4 @@
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <h2>Обучение</h2>
 <ol>
 <li>Первая и самая важная часть это сон. В 19-20 часов готовимся ко сну. Отбой в 22:30.</li>
