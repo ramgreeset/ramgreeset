@@ -13,10 +13,6 @@
 
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="malik | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="malik | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="malik | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
-[<img align="left" alt="malik | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]&nbsp;
 
 ### 💻 Tech Stack:
 
@@ -69,12 +65,8 @@
 </table>
 
 
-[telegram]: https://t.me/imansaparov
-[instagram]: https://www.instagram.com/m_imansaparov
-[linkedin]: https://www.linkedin.com/in/malik-imansaparov-591a88186/
-[facebook]: https://www.facebook.com/malik.imansaparov
-[vk]: https://m.vk.com/id440183588
-[twitter]: https://twitter.com/MImansaparov
+[telegram]: https://t.me/Roman_Artemyev
+[linkedin]: https://www.linkedin.com/in/ramgreeset/
 
 
 
