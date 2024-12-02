@@ -3,8 +3,6 @@
 <!--  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" heigth="25px"> -->
 ### Hi, I'm Roman <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikimansaparov&label=Views&color=blue&style=plastic" alt="malik" /> </p> 
-
 ## I'm a Frontend Developer!
 - 💻 3 Years Experience in Frontend Technologies
 - 👨‍💻 Frontend Enthusiast & Mentor
